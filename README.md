@@ -3,7 +3,7 @@
 
   <li>on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">Leetcode</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Behavioral interviews</a>.</li>
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+
 </p>
 
 
