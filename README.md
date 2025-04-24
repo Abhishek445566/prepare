@@ -1,7 +1,7 @@
 <h2 align="center"></h2>
 <ul>
 
-  <li>on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">Leetcode</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Behavioral interviews</a>.</li>
+  <li>on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">Leetcode</a> </li>
   
 
 </p>
