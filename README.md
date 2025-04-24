@@ -4,8 +4,6 @@
   <li>on <a href = "https://github.com/ashishps1/awesome-system-design-resources">System Design</a>, <a href = "https://github.com/ashishps1/awesome-low-level-design">Low Level Design</a>, <a href = "https://github.com/ashishps1/awesome-leetcode-resources">Leetcode</a> and <a href = "https://github.com/ashishps1/awesome-behavioral-interviews">Behavioral interviews</a>.</li>
   <li>Subscribe to my <a href = "https://bit.ly/amghpr">AlgoMaster Newsletter</a> and get a <b>FREE System Design Interview Handbook</b> in your inbox.</li>
   
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&rank_icon=github&locale=en" alt="ashishps1" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishps1&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 
